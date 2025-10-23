@@ -46,6 +46,7 @@ S3 Bucket Upload (with prefix routing)
 ├── .github/
 │   └── workflows/
 │       └── deploy-lambda.yml    # GitHub Actions workflow for ECR deployment
+│       └── grading.yml          # manual grading workflow
 ├── lambdas/
 │   ├── resize/
 │   │   ├── Dockerfile
